@@ -1,0 +1,38 @@
+# Eclipse workspace
+.metadata/
+.settings/
+
+# Build output
+Debug/
+Release/
+
+# Generated makefiles
+makefile
+sources.mk
+objects.mk
+subdir.mk
+
+# Object files
+*.o
+*.obj
+*.d
+
+# Executables
+*.exe
+*.out
+
+# Libraries
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
