@@ -1,25 +1,31 @@
-# Eclipse workspace
+# Eclipse workspace metadata
 .metadata/
 .settings/
 
-# Build output
+# Eclipse build output
 Debug/
 Release/
 
-# Generated makefiles
+# Eclipse generated makefiles
 makefile
 sources.mk
 objects.mk
 subdir.mk
 
-# Object files
+# C/C++ compiled object and dependency files
 *.o
 *.obj
 *.d
 
-# Executables
+# Compiled executables
 *.exe
 *.out
+
+# macOS / Clang debug symbols
+*.dSYM/
+
+# macOS system files
+.DS_Store
 
 # Libraries
 *.so
@@ -27,12 +33,6 @@ subdir.mk
 *.dylib
 *.a
 *.lib
-
-# macOS
-.DS_Store
-
-# VS Code
-.vscode/
 
 # Logs
 *.log
