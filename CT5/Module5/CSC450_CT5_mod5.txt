@@ -1,0 +1,7 @@
+Please be sure to append your data to this text file.
+
+If these first three lines are deleted, then your program is not functioning as expected.
+
+
+
+I am working on some homework. This input will be appended to the end of the CSC450_CT5_mod5.txt file and that file will then be read and all characters will be reversed and written to CSC450-mod5-reverse.txt.
